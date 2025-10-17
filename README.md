@@ -13,3 +13,8 @@ I just **abans de tancar l'etiqueta BODY** la següent línia:
 <!-- Latest compiled JavaScript -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 ```
+
+## Recursos
+
+- [Web de W3schools sobre Bootstrap](https://www.w3schools.com/bootstrap5/index.php)
+- [Web oficial de Bootstrap amb exemples](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
