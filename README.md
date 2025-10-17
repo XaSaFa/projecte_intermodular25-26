@@ -18,3 +18,9 @@ I just **abans de tancar l'etiqueta BODY** la següent línia:
 
 - [Web de W3schools sobre Bootstrap](https://www.w3schools.com/bootstrap5/index.php)
 - [Web oficial de Bootstrap amb exemples](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+## Enunciat 1
+
+Fes una pàgina web utilitzant Boostrap 5 que tingui una barra de navegació i 5 seccions.
+
+A la barra de navegació hi haurà link a cada secció de la web.
