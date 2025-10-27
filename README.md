@@ -24,3 +24,7 @@ I just **abans de tancar l'etiqueta BODY** la següent línia:
 Fes una pàgina web utilitzant Boostrap 5 que tingui una barra de navegació i 5 seccions.
 
 A la barra de navegació hi haurà link a cada secció de la web.
+
+## Enunciat 2
+
+
