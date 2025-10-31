@@ -19,6 +19,7 @@ I just **abans de tancar l'etiqueta BODY** la següent línia:
 - [Web de W3schools sobre Bootstrap](https://www.w3schools.com/bootstrap5/index.php)
 - [Web oficial de Bootstrap amb exemples](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - [Web amb exemples de Bootstrap5 - Bootstrap 5 snippets](https://library.livecanvas.com/sections/)
+- [Codi exemple carousel](carousel.md)
 
 ## Enunciat 1
 
